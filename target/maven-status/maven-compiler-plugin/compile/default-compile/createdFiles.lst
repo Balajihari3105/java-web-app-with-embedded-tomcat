@@ -1,0 +1,12 @@
+io/github/julianjupiter/app/service/BookServiceImpl.class
+io/github/julianjupiter/app/server/TomcatServer.class
+io/github/julianjupiter/app/controller/BaseController.class
+io/github/julianjupiter/app/repository/BookRepositoryImpl.class
+io/github/julianjupiter/app/repository/BookRepository.class
+io/github/julianjupiter/app/Main.class
+io/github/julianjupiter/app/server/Server.class
+io/github/julianjupiter/app/util/ErrorResponse.class
+io/github/julianjupiter/app/service/BookService.class
+io/github/julianjupiter/app/controller/BookController.class
+io/github/julianjupiter/app/domain/Book.class
+io/github/julianjupiter/app/util/Error.class
